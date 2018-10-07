@@ -1,7 +1,7 @@
 #exercise 2
 #=1=
 rule11<- function(x){
-return(1/2 * 1/sqrt(x)
+return(1/(2*sqrt(x))
 }
 library(Ryacas)
 x <- Sym("x")
